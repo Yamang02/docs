@@ -17,15 +17,11 @@
 **이전 피드백**: 첫 진입 시 임팩트 부족 및 배경(테트리스) 상징성 불분명. **브랜드 이미지 부각** 필요
 
 **이전 상태 (Before)**:
-![이전 홈페이지 전체](./screenshots/before/homepage-full.png)
-
-![이전 홈페이지 히어로 섹션](./screenshots/before/homepage-hero.png)
+![PDF 원문 발췌 - 메인페이지 임팩트/브랜딩 피드백](./screenshots/before/pdf/pdf-mainpage-impact.png)
 
 **리뉴얼 반영**: 새로운 히어로 섹션에서 배경이 깔끔하게 정리되었고, 고유한 색상 및 패턴을 활용하여 시각적 임팩트와 브랜딩을 확보함
 
 **리뉴얼 후 (After)**:
-![랜딩 페이지 전체](./screenshots/landing-full.png)
-
 ![랜딩 페이지 히어로 섹션](./screenshots/landing-hero.png)
 
 ### 2.2 기술 스택 UI 개선
@@ -33,7 +29,7 @@
 **이전 피드백**: **기술 스택이 버튼 UI처럼 보임** (액션 없음). 액션 없는 UI 지양
 
 **이전 상태 (Before)**:
-![이전 홈페이지 프로젝트 섹션](./screenshots/before/homepage-projects.png)
+![PDF 원문 발췌 - 기술 스택이 버튼 UI처럼 보이는 문제](./screenshots/before/pdf/pdf-stack-buttons.png)
 
 **리뉴얼 반영**: `에이전틱 코딩` 섹션의 기술 설명 부분이 **액션 없는 정보 나열 박스** 형태로 구성되어 불필요한 인터랙티브 UI를 제거함
 
@@ -46,6 +42,9 @@
 
 **이전 피드백**: 하단 고정 기능이 상시 고정으로 눈에 거슬리고 **첫 방문자에게 비효율적일 수 있음**
 
+**이전 상태 (Before)**:
+![PDF 원문 발췌 - 하단 고정 UI 관련 피드백](./screenshots/before/pdf/pdf-bottom-fixed.png)
+
 **리뉴얼 반영**: 랜딩 페이지 하단에 **'더 알아보기' CTA 섹션**을 통해 **'프로필 보기'**와 **'프로젝트 보기'** 버튼을 명확히 제시하여 사용자가 능동적으로 다음 페이지로 진입하도록 유도함
 
 ![랜딩 페이지 CTA 섹션](./screenshots/landing-cta.png)
@@ -57,8 +56,6 @@
 **이전 피드백**: 경력/교육/자격증은 **간결한 나열식**으로 구성하고 **큰 영역을 차지할 필요가 없음**
 
 **리뉴얼 반영**: **'이정준 Profile' 페이지**를 신설하여 이력 정보를 분리함. 경력(Work) 및 기타 경험(Other Experience) 섹션이 **간결한 나열 형식**으로 구성됨
-
-![프로필 페이지 전체](./screenshots/profile-full.png)
 
 ![프로필 페이지 인트로](./screenshots/profile-intro.png)
 
@@ -75,7 +72,7 @@
 **이전 피드백**: **AI 메시지 필드 쪽 프로젝트 히스토리** 경로가 어색함. 경력 혹은 프로젝트 섹션 그룹으로 묶어야 함
 
 **이전 상태 (Before)**:
-![이전 히스토리 패널](./screenshots/before/history-panel-open.png)
+![PDF 원문 발췌 - 프로젝트 히스토리 동선 관련 피드백](./screenshots/before/pdf/pdf-project-history.png)
 
 **리뉴얼 반영**: 프로젝트 히스토리는 별도의 섹션이 아닌, **경력(Work) 및 기타 경험(Other Experience) 섹션**과 함께 배치되어 관련 정보의 흐름이 자연스럽게 연결되도록 구성함
 
@@ -86,15 +83,11 @@
 **이전 피드백**: **검색 필터가 너무 많아** 당혹스러움. **간결하게 제공** 필요
 
 **이전 상태 (Before)**:
-![이전 모바일 반응형](./screenshots/before/responsive-mobile.png)
-
-![이전 태블릿 반응형](./screenshots/before/responsive-tablet.png)
+![PDF 원문 발췌 - 검색 필터/호버/아이콘 관련 피드백](./screenshots/before/pdf/pdf-filters-hover.png)
 
 **리뉴얼 반영**: **타임라인 UI**와 **4가지 명확한 섹션**(Featured Projects, MAINTENANCE, BUILD, LAB)을 통해 프로젝트 목록을 구조화하여, 복잡한 필터 없이도 체계적인 탐색이 가능해짐
 
 **리뉴얼 후 (After)**:
-![아카이브 페이지 전체](./screenshots/archive-full.png)
-
 ![아카이브 타임라인](./screenshots/archive-timeline.png)
 
 ![모바일 반응형 아카이브](./screenshots/responsive-mobile-archive.png)
@@ -122,15 +115,11 @@
 **이전 피드백**: **왼쪽 고정 메뉴**로 상세 내용이 잘려 보임. **영역 축소/숨김** 권장
 
 **이전 상태 (Before)**:
-![이전 프로젝트 상세 페이지 전체](./screenshots/before/project-detail-full.png)
-
-![이전 프로젝트 상세 페이지 사이드바](./screenshots/before/project-detail-sidebar.png)
+![PDF 원문 발췌 - 상세페이지 좌측 고정 메뉴/잘림 현상 피드백](./screenshots/before/pdf/pdf-detail-sidebar.png)
 
 **리뉴얼 반영**: 상세 페이지는 고정된 왼쪽 메뉴 대신 **'목차' 박스**가 콘텐츠 영역 내에 배치되어 **내용 잘림 현상 없이** 정보를 제공함
 
 **리뉴얼 후 (After)**:
-![프로젝트 상세 페이지 전체](./screenshots/project-detail-full.png)
-
 ![프로젝트 상세 페이지 콘텐츠](./screenshots/project-detail-content.png)
 
 ![프로젝트 상세 페이지 헤더](./screenshots/project-detail-header.png)
@@ -146,7 +135,7 @@
 **이전 피드백**: AI 비서 기능의 **뚜렷한 목표 설정 및 컨셉화** 필요
 
 **이전 상태 (Before)**:
-![이전 AI 챗봇 인터페이스](./screenshots/before/chatbot-open.png)
+![PDF 원문 발췌 - AI 비서 컨셉/목표 설정 피드백](./screenshots/before/pdf/pdf-ai-assistant.png)
 
 **리뉴얼 반영**: AI 비서 인터페이스에서 **"저는 AI 포트폴리오 비서입니다"**라고 명확히 정의하고, **예시 질문**을 제공하여 방문자에게 기능의 목표와 유용성을 명확히 전달함
 
@@ -176,34 +165,28 @@
 ### 주요 스크린샷 파일 목록
 
 #### 리뉴얼 후 (After)
-- `landing-full.png` - 랜딩 페이지 전체
 - `landing-hero.png` - 랜딩 페이지 히어로 섹션
 - `landing-about.png` - 랜딩 페이지 About 섹션
 - `landing-featured-projects.png` - 랜딩 페이지 Featured Projects
 - `landing-cta.png` - 랜딩 페이지 CTA 섹션
-- `profile-full.png` - 프로필 페이지 전체
 - `profile-intro.png` - 프로필 페이지 인트로
 - `profile-timeline.png` - 프로필 페이지 타임라인
-- `archive-full.png` - 아카이브 페이지 전체
 - `archive-timeline.png` - 아카이브 타임라인
 - `archive-featured.png` - 아카이브 Featured 섹션
 - `archive-build-section.png` - 아카이브 BUILD 섹션
 - `responsive-mobile-archive.png` - 모바일 반응형 아카이브
-- `project-detail-full.png` - 프로젝트 상세 페이지 전체
 - `project-detail-content.png` - 프로젝트 상세 페이지 콘텐츠
 - `project-detail-header.png` - 프로젝트 상세 페이지 헤더
 - `chat-full.png` - AI 채팅 페이지
 
 #### 리뉴얼 전 (Before)
-- `before/homepage-full.png` - 이전 홈페이지 전체
-- `before/homepage-hero.png` - 이전 홈페이지 히어로 섹션
-- `before/homepage-projects.png` - 이전 홈페이지 프로젝트 섹션
-- `before/history-panel-open.png` - 이전 히스토리 패널
-- `before/project-detail-full.png` - 이전 프로젝트 상세 페이지 전체
-- `before/project-detail-sidebar.png` - 이전 프로젝트 상세 페이지 사이드바
-- `before/chatbot-open.png` - 이전 AI 챗봇 인터페이스
-- `before/responsive-mobile.png` - 이전 모바일 반응형
-- `before/responsive-tablet.png` - 이전 태블릿 반응형
+- `before/pdf/pdf-mainpage-impact.png` - (PDF 발췌) 메인페이지 임팩트/브랜딩 피드백
+- `before/pdf/pdf-stack-buttons.png` - (PDF 발췌) 기술 스택 버튼 UI 오해 피드백
+- `before/pdf/pdf-bottom-fixed.png` - (PDF 발췌) 하단 고정 UI 피드백
+- `before/pdf/pdf-project-history.png` - (PDF 발췌) 프로젝트 히스토리 동선 피드백
+- `before/pdf/pdf-filters-hover.png` - (PDF 발췌) 검색 필터/호버/아이콘 피드백
+- `before/pdf/pdf-detail-sidebar.png` - (PDF 발췌) 상세페이지 좌측 고정 메뉴 피드백
+- `before/pdf/pdf-ai-assistant.png` - (PDF 발췌) AI 비서 컨셉/목표 피드백
 
 ---
 
