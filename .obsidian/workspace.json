@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "057bab6ce0ce2165",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73a608ad7c6317a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a38b58a9b920f3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yamang02 사이트 리뉴얼 회고"
+            }
+          },
+          {
+            "id": "35c5bf3b54fe9b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yamang02 사이트 리뉴얼 회고"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28f0e2788137005d",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d103cce3b291d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2aea5d1ff8fc16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6069bd5d91295d00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "393cd481f37b056f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "5f3b7df4cb51d08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a608b9d570513a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f72566cb855ca0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Yamang02 사이트 리뉴얼 회고 의 백링크"
+            }
+          },
+          {
+            "id": "4a3dbdf9eb9bedac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Yamang02 사이트 리뉴얼 회고 의 나가는 링크"
+            }
+          },
+          {
+            "id": "d0e21103f434a2e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "dea34ca07701d2da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "1b74c24b2d145ba6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Yamang02 사이트 리뉴얼 회고 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "a38b58a9b920f3be",
+  "lastOpenFiles": [
+    "UIUX_renewal(Portfolio)/이정준님 UX_UI 개선 피드백.pdf",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108105535.png",
+    "UIUX_renewal(Portfolio)/Yamang02 사이트 리뉴얼 회고.md",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108110216.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108105919.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108105851.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108105751.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108104323.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108094459.png",
+    "UIUX_renewal(Portfolio)/screenshots",
+    "UIUX_renewal(Portfolio)/portfolio-renewal-mapping-report.md",
+    "portfolio-renewal-mapping-report.md",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108104029.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108103459.png",
+    "UIUX_renewal(Portfolio)/screenshots/Pasted image 20260108103455.png"
+  ]
+}
